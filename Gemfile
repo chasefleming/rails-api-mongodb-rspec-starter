@@ -8,6 +8,8 @@ gem 'spring', :group => :development
 
 gem 'sqlite3'
 
+gem 'mongoid'
+
 
 
 # To use ActiveModel has_secure_password
