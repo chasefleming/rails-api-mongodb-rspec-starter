@@ -10,6 +10,10 @@ gem 'sqlite3'
 
 gem 'mongoid'
 
+gem 'rspec-rails', :group => [:development, :test]
+gem 'database_cleaner', :group => :test
+gem 'mongoid-rspec', :group => :test
+
 
 
 # To use ActiveModel has_secure_password
